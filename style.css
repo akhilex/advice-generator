@@ -45,7 +45,7 @@ body {
   align-items: center;
 }
 .card .card__quote::after {
-  content: url(../images/pattern-divider-mobile.svg);
+  content: url(pattern-divider-mobile.svg);
   padding: 1rem;
   overflow: hidden;
 }
@@ -104,6 +104,6 @@ footer a:hover {
     font-size: 1.75rem;
   }
   .card .card__quote::after {
-    content: url(../images/pattern-divider-desktop.svg);
+    content: url(pattern-divider-desktop.svg);
   }
 }/*# sourceMappingURL=style.css.map */

@@ -50,7 +50,7 @@ body {
     flex-direction: column;
     align-items: center;
     &::after {
-      content: url(../images/pattern-divider-mobile.svg);
+      content: url(pattern-divider-mobile.svg);
         padding: 1rem;
         overflow: hidden;
     }
@@ -91,4 +91,4 @@ footer {
   }
 }
 
-@import "./desktop.scss";
+@import "_desktop.scss";
